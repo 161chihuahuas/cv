@@ -4,7 +4,6 @@
 
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### CV *[lilyanne.me](https://lilyanne.me)*
-##### Consulting *[tacticalchihuahua.lol](https://tacticalchihuahua.lol)*
 ##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 ##### Pronouns *they/them*
 
