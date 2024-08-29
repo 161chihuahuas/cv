@@ -2,10 +2,10 @@
 
 ## personal
 
-##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
-##### CV *[lilyanne.me](https://lilyanne.me)*
-##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 ##### Pronouns *they/them*
+##### CV *[lilyanne.me](https://lilyanne.me)*
+##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
+##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 
 I'm an independent security researcher with an extensive background in distributed 
 systems, digital privacy, and applied cryptography. Past clients I have worked with
