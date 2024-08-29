@@ -1,5 +1,5 @@
 html, body {
-  font-family: serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 0;
   padding: 0;
 }
@@ -12,6 +12,7 @@ body {
   padding: 4em;
   margin: auto;
   max-width: 8.5in;
+  min-width: 520px;
 }
 
 h1 {
@@ -39,7 +40,7 @@ h3 strong {
   float: right;
   color: white;
   background-color: black;
-  padding: 0.1rem 0.5rem;
+  padding: 0 0.5rem;
 }
 
 h4 {
@@ -58,5 +59,6 @@ h5 em {
   display: block;
   float: inline-end;
   text-align: left;
-  width: 42em;
+  max-width: 40em;
+  padding: 0 2rem;
 }
