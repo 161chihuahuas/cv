@@ -1,0 +1,53 @@
+html, body {
+  font-family: serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  
+}
+
+.container {
+  padding: 4em;
+  margin: auto;
+}
+
+h1 {
+  text-align: right;
+}
+
+h1 em {
+  display: block;
+  font-size: x-small;
+}
+
+h2 {
+  border-bottom: 1em solid black;
+}
+
+h3 {
+
+}
+
+h3 strong {
+  display: block;
+  float: right;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+
+h4 {
+  font-style: italic;
+  font-weight: normal;
+}
+
+h5 {
+  margin-left: 4em;
+}
+
+h5 em {
+  display: inline-block;
+  margin-left: 8em;
+}
