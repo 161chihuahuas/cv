@@ -130,6 +130,11 @@ include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 
 ## public speaking
 
+### BlockCon **2017**
+#### Santa Monica, CA
+
+...todo
+
 ### LibrePlanet **2017**
 #### MIT, Cambridge, MA
 
@@ -147,7 +152,7 @@ include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 
 ## skills
 
-##### languages *JavaScript, C++, Python, Rust, Lua, Bash, HTML, CSS*
+##### languages *JavaScript + Node.js, C++, Python, Rust, Lua, Solidity, Bash, HTML, CSS*
 
 ##### software *Asynchronous Programming, Distributed Systems Design, API Design, Security Best Practices, Reverse Engineering*
 
