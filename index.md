@@ -7,7 +7,7 @@
 ##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 ##### Pronouns *they/them*
 
-I'm an indpendent security researcher with an extensive background in distributed 
+I'm an independent security researcher with an extensive background in distributed 
 systems, digital privacy, and applied cryptography. Past clients I have worked with
 include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 
