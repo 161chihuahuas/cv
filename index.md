@@ -116,39 +116,51 @@ include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 ### Counterpoint Hackerspace **2014-2018**
 #### Executive Director
 
-...todo
+
 
 ### Neo Smart Economy **2017-2018**
 #### Technical Advisor
 
-...todo
+I consulted with the team at [NEO](https://neo.org/about), an open source smart contract platform, conducting several security audits over the course of the enagagment.
 
 ### Fluence Labs **2017-2018**
 #### Technical Advisor
 
-...todo
+[Fluence](https://fluence.network/) is a decentralized physical infrastructure (DePIN) network that offers a verifiable compute. I consulted with the team during the early design phase to help identify potential attacks related to the overlay network structure.  
+
+## grants & scholarships
+
+### Open Technology Fund, Red Team Labs (research grant) **2018**
+#### Onion Routed Cloud, Author
+
+Preceding the first stable production release of the ORC project, the OTF awarded me a research grant to fund a third party security audit of the project.
+
+### Art Institute of Atlanta (scholarship) **2007**
+#### National Scholarship Competition, Digital Filmmaking
+
+I was awarded first place in Ai's National High School Scholarship competition for two short films that I wrote, directed, and edited.
 
 ## public speaking
 
 ### BlockCon **2017**
 #### Santa Monica, CA
 
-...todo
+After releasing my privacy oriented and censorship resistant fork of Storj, Onion Routed Cloud, I participated in a panel interview with representatives from [Sia](https://sia.tech/) and [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) about the state and future of decentralized scloud storage.
 
 ### LibrePlanet **2017**
 #### MIT, Cambridge, MA
 
-...todo
+At a time when most major blockchains were struggling to solve scalability issues, I spoke at LibrePlanet about the ecological impact of proof-of-work systems and made an appeal for various alternatives.
 
 ### NodeSummit **2016**
 #### San Francisco, CA
 
-...todo
+During the early prototyping phase for the [Storj](https://storj.io) project, I spoke at NodeSummit about what we were building and gave a live demonstration of one of the first functional decentralized cloud systems that levereaged distributed ledger technology.
 
 ### ConnectJS **2014**
 #### Atlanta, GA
 
-...todo
+While Node.js was still gaining more widespread developer adoption, I spoke at a conference for JS developers about using server-side JavaScript to implement a peer-to-peer consensus algorithm.
 
 ## skills
 
