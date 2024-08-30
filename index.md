@@ -16,47 +16,47 @@ include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 ### Security Researcher **2017-present**
 #### Independent Contractor/Consultant
 
-...todo
+Independent development of security tools, code reviews, security audits, pentesting, and system design reviews while consulting for private clientele.
 
 ### Senior Engineering Manager **2022-2023**
 #### Spruce Systems
 
-...todo
+Acted as a technical advisor and engineering manager to the team responsible for Sign-in-with-Ethereum (SIWE). Established testing practices and co-developed the product roadmap.
 
 ### Senior Engineering Manager **2020-2022**
 #### Eaze
 
-...todo
+Managed the consumer engineering department which included the web, mobile, and payments teams. Developed hiring rubrics, progression criteria, and operational practices. Led the security working group - a cross-functional team responsible for organizational and application security practices.
 
 ### Security Researcher **2017-2020**
 #### Least Authority (contract)
 
-...todo
+Conducted dozens of security research and auditing projects for an ensemble of privacy focused technology projects. Authored reports, blog posts, and worked directly with clients to remediate security vulnerabilities.
 
 ### Principal Software Engineer, Architect **2015-2017**
 #### Storj Labs
 
-...todo
+Implemented the Storj protocol per its initial prototype specification, co-authored the protocol specification for its first major stable release, and acted as the open-source project's core developer.
 
 ### Staff Software Engineer, R&D **2012-2015**
 #### BitPay
 
-...todo
+Co-authored the second major release of the Merchant API and first major release of the Payroll API - both designed with a capabilities-based security model. Led the research and development team to build internal tools as well as contributions to open source projects Bitcore, Bitauth, and Copay
 
 ### Presentation Layer Architect **2012**
 #### Razorfish
 
-...todo
+Designed a multi-tenant banking interface for Citibank's white-label credit cards that minimized code duplication and deployment redundancies.
 
 ### Senior Software Engineer **2010-2012**
 #### Bridgevine
 
-...todo
+Modernized a legacy ASP codebase by refactoring key components as a set of microservices. Trained new engineers and contributed to hiring rubrics.
 
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
 
-...todo
+Introduced Node.js into the interface team's technology stack. Contributed to localization work on the Olympics website.
 
 ## published research 
 
