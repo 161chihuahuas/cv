@@ -109,14 +109,14 @@ include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
 ### Storj: a peer-to-peer cloud storage network (contributor) **2016**
 #### [lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf](https://lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf)
 
-...todo 
+I made significant technical contributions to the whitepaper for Storj: A peer-to-peer cloud storage network implementing client-side encryption that allows users to transfer and share data without reliance on a third party storage provider. 
 
 ## leadership & advisory roles
 
-### Counterpoint Hackerspace **2014-2018**
+### Counterpoint Hackerspace **2014-2019**
 #### Executive Director
 
-
+I co-founded and organized a [radical hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. I managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
 
 ### Neo Smart Economy **2017-2018**
 #### Technical Advisor
