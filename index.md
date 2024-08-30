@@ -7,41 +7,39 @@
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 
-I'm an independent security researcher with an extensive background in distributed 
-systems, digital privacy, and applied cryptography. Past clients I have worked with
-include Zcash, MetaMask, Ethereum Foundation, Blockstack, and others.
+I'm a security researcher with an extensive background in distributed systems, digital privacy and applied cryptography. I have worked with Zcash, MetaMask, Ethereum Foundation, Blockstack and others.
 
 ## professional experience
 
 ### Security Researcher **2017-present**
 #### Independent Contractor/Consultant
 
-Independent development of security tools, code reviews, security audits, pentesting, and system design reviews while consulting for private clientele.
+Developed security tools, code reviews, audits, pen tests and system design reviews while consulting for private clientele.
 
 ### Senior Engineering Manager **2022-2023**
 #### Spruce Systems
 
-Acted as a technical advisor and engineering manager to the team responsible for Sign-in-with-Ethereum (SIWE). Established testing practices and co-developed the product roadmap.
+Acted as a technical advisor and engineering manager to a team of six engineers responsible for Sign-in-with-Ethereum (SIWE). Established testing practices and co-developed the product roadmap.
 
 ### Senior Engineering Manager **2020-2022**
 #### Eaze
 
-Managed the consumer engineering department which included the web, mobile, and payments teams. Developed hiring rubrics, progression criteria, and operational practices. Led the security working group - a cross-functional team responsible for organizational and application security practices.
+Managed the consumer engineering department which included the web, mobile, and payments teams. Developed hiring rubrics, progression criteria and operational practices. Led the security working group -- a cross-functional team responsible for organizational and application security practices.
 
 ### Security Researcher **2017-2020**
 #### Least Authority (contract)
 
-Conducted dozens of security research and auditing projects for an ensemble of privacy focused technology projects. Authored reports, blog posts, and worked directly with clients to remediate security vulnerabilities.
+Conducted dozens of research and auditing projects for an ensemble of privacy focused technology projects. Authored reports and blog posts. Worked directly with clients to remediate vulnerabilities.
 
 ### Principal Software Engineer, Architect **2015-2017**
 #### Storj Labs
 
-Implemented the Storj protocol per its initial prototype specification, co-authored the protocol specification for its first major stable release, and acted as the open-source project's core developer.
+Implemented the Storj protocol per its initial prototype specification. Co-authored the protocol specification for its first major stable release. Acted as the open-source project's core developer and community liaison.
 
 ### Staff Software Engineer, R&D **2012-2015**
 #### BitPay
 
-Co-authored the second major release of the Merchant API and first major release of the Payroll API - both designed with a capabilities-based security model. Led the research and development team to build internal tools as well as contributions to open source projects Bitcore, Bitauth, and Copay
+Co-authored the second major release of the Merchant API and the first major release of the Payroll API -- both designed with a capabilities-based security model. Led the research and development team to build internal tools as well as contributions to open source projects Bitcore, Bitauth, and Copay
 
 ### Presentation Layer Architect **2012**
 #### Razorfish
