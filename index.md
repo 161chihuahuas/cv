@@ -39,7 +39,7 @@ Implemented the Storj protocol per its initial prototype specification. Co-autho
 ### Staff Software Engineer, R&D **2012-2015**
 #### BitPay
 
-Co-authored the second major release of the Merchant API and the first major release of the Payroll API -- both designed with a capabilities-based security model. Led the research and development team to build internal tools as well as contributions to open source projects Bitcore, Bitauth, and Copay
+Co-authored the second major release of the Merchant API and the first major release of the Payroll API -- both designed with a capabilities-based security model. Led the research and development team to build internal tools and contribute to open source projects Bitcore, Bitauth and Copay
 
 ### Presentation Layer Architect **2012**
 #### Razorfish
@@ -49,12 +49,12 @@ Designed a multi-tenant banking interface for Citibank's white-label credit card
 ### Senior Software Engineer **2010-2012**
 #### Bridgevine
 
-Modernized a legacy ASP codebase by refactoring key components as a set of microservices. Trained new engineers and contributed to hiring rubrics.
+Modernized a legacy ASP codebase by refactoring key components as a set of microservices. Trained four new engineers and wrote hiring rubrics.
 
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
 
-Introduced Node.js into the interface team's technology stack. Contributed to localization work on the Olympics website.
+Introduced Node.js into the interface team's technology stack. Localized the 2010 Winder Olympics website.
 
 ## published research 
 
@@ -107,58 +107,58 @@ Introduced Node.js into the interface team's technology stack. Contributed to lo
 ### Storj: a peer-to-peer cloud storage network (contributor) **2016**
 #### [lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf](https://lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf)
 
-I made significant technical contributions to the whitepaper for Storj: A peer-to-peer cloud storage network implementing client-side encryption that allows users to transfer and share data without reliance on a third party storage provider. 
+Authored the network overlay design and distributed publish/subscribe system in the whitepaper "Storj: a peer-to-peer cloud storage network". 
 
 ## leadership & advisory roles
 
 ### Counterpoint Hackerspace **2014-2019**
 #### Executive Director
 
-I co-founded and organized a [radical hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. I managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
+Co-founded a [radical hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. Managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
 
-### Neo Smart Economy **2017-2018**
+### COZ, Neon Wallet **2017-2018**
 #### Technical Advisor
 
-I consulted with the team at [NEO](https://neo.org/about), an open source smart contract platform, conducting several security audits over the course of the enagagment.
+Consulted with the team at [COZ](https://github.com/CityOfZion) throughout the development of Neon Wallet. Advised on security best practices, identified bugs and reviewed code.
 
 ### Fluence Labs **2017-2018**
 #### Technical Advisor
 
-[Fluence](https://fluence.network/) is a decentralized physical infrastructure (DePIN) network that offers a verifiable compute. I consulted with the team during the early design phase to help identify potential attacks related to the overlay network structure.  
+Consulted during the early design phase to identify potential attack vectors related to the overlay network structure, incentive model game theory and scalability concerns.
 
 ## grants & scholarships
 
 ### Open Technology Fund, Red Team Labs (research grant) **2018**
 #### Onion Routed Cloud, Author
 
-Preceding the first stable production release of the ORC project, the OTF awarded me a research grant to fund a third party security audit of the project.
+Awarded a research grant to fund a third party security audit of my open source privacy software project, Onion Routed Cloud (ORC).
 
 ### Art Institute of Atlanta (scholarship) **2007**
 #### National Scholarship Competition, Digital Filmmaking
 
-I was awarded first place in Ai's National High School Scholarship competition for two short films that I wrote, directed, and edited.
+Awarded first place in Ai's National High School Scholarship competition for two short films that I wrote, directed, and edited.
 
 ## public speaking
 
 ### BlockCon **2017**
 #### Santa Monica, CA
 
-After releasing my privacy oriented and censorship resistant fork of Storj, Onion Routed Cloud, I participated in a panel interview with representatives from [Sia](https://sia.tech/) and [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) about the state and future of decentralized scloud storage.
+Participated in a panel interview with representatives from [Sia](https://sia.tech/) and [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) about the state and future of decentralized scloud storage.
 
 ### LibrePlanet **2017**
 #### MIT, Cambridge, MA
 
-At a time when most major blockchains were struggling to solve scalability issues, I spoke at LibrePlanet about the ecological impact of proof-of-work systems and made an appeal for various alternatives.
+Spoke about the ecological impact of proof-of-work systems and made an appeal for various alternatives.
 
 ### NodeSummit **2016**
 #### San Francisco, CA
 
-During the early prototyping phase for the [Storj](https://storj.io) project, I spoke at NodeSummit about what we were building and gave a live demonstration of one of the first functional decentralized cloud systems that levereaged distributed ledger technology.
+Spoke at NodeSummit about [Storj](https://storj.io) and gave a live demonstration of one of the first decentralized cloud systems using distributed ledger technology.
 
 ### ConnectJS **2014**
 #### Atlanta, GA
 
-While Node.js was still gaining more widespread developer adoption, I spoke at a conference for JS developers about using server-side JavaScript to implement a peer-to-peer consensus algorithm.
+Spoke at a conference for JS developers about using server-side JavaScript to implement a peer-to-peer consensus algorithm.
 
 ## skills
 
