@@ -44,17 +44,11 @@ Co-authored the second major release of the Merchant API and the first major rel
 ### Presentation Layer Architect **2012**
 #### Razorfish
 
-Designed a multi-tenant banking interface for Citibank's white-label credit cards that minimized code duplication and deployment redundancies.
-
 ### Senior Software Engineer **2010-2012**
 #### Bridgevine
 
-Modernized a legacy ASP codebase by refactoring key components as a set of microservices. Trained four new engineers and wrote hiring rubrics.
-
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
-
-Introduced Node.js into the interface team's technology stack. Localized the 2010 Winter Olympics website.
 
 ## published research 
 
