@@ -58,56 +58,35 @@ Introduced Node.js into the interface team's technology stack. Localized the 201
 
 ## published research 
 
-### TRON: Protocol Security Audit (contributor) **2020**
+### TRON: Protocol Security Audit **2020**
 #### [lilyanne.me/research/TRON/LeastAuthority-TRON-Protocol-Audit-Report.pdf](https://lilyanne.me/research/TRON/LeastAuthority-TRON-Protocol-Audit-Report.pdf)
 
-...todo
-
-### MetaMask: Lavamoat Plugin System Security Audit (contributor) **2019**
+### MetaMask: Lavamoat Plugin System Security Audit **2019**
 #### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf)
 
-...todo
-
-### MetaMask: Capnode Permissions System Security Audit (contributor) **2019**
+### MetaMask: Capnode Permissions System Security Audit **2019**
 #### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf)
 
-...todo
-
-### MetaMask: Mobile Wallet Security Audit (contributor) **2019**
+### MetaMask: Mobile Wallet Security Audit **2019**
 #### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Audit-Report.pdf)
 
-...todo
-
-### Blockstack: Stacks Investor Wallet Security Audit (contributor) **2019**
+### Blockstack: Stacks Investor Wallet Security Audit **2019**
 #### [lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf](https://lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf)
 
-...todo
-
-### Cosmos: SDK Security Audit (contributor) **2019**
+### Cosmos: SDK Security Audit **2019**
 #### [lilyanne.me/research/Cosmos/LeastAuthority-Cosmos-SDK-Audit-Report.pdf](https://lilyanne.me/research/Cosmos/LeastAuthority-Cosmos-SDK-Audit-Report.pdf)
 
-...todo
-
-### Ethereum Foundation: ProgPow Algorithm Security Audit (contributor) **2019**
+### Ethereum Foundation: ProgPow Algorithm Security Audit **2019**
 #### [lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf](https://lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf)
 
-...todo
-
-### Zcash: Sapling Implementation Security Audit (contributor) **2019**
+### Zcash: Sapling Implementation Security Audit **2019**
 #### [lilyanne.me/research/Zcash/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf](https://lilyanne.me/research/Zcash/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf)
 
-...todo
-
-
-### Zcash: Overwinter Specification and Implementation Security Audit (contributor) **2018**
+### Zcash: Overwinter Specification and Implementation Security Audit **2018**
 #### [lilyanne.me/research/Zcash/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf](https://lilyanne.me/research/Zcash/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf)
 
-...todo
-
-### Storj: a peer-to-peer cloud storage network (contributor) **2016**
+### Storj: a peer-to-peer cloud storage network **2016**
 #### [lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf](https://lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf)
-
-Authored the network overlay design and distributed publish/subscribe system in the whitepaper "Storj: a peer-to-peer cloud storage network". 
 
 ## leadership & advisory roles
 
@@ -116,15 +95,10 @@ Authored the network overlay design and distributed publish/subscribe system in 
 
 Co-founded a [radical hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. Managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
 
-### COZ, Neon Wallet **2017-2018**
-#### Technical Advisor
-
-Consulted with the team at [COZ](https://github.com/CityOfZion) throughout the development of Neon Wallet. Advised on security best practices, identified bugs and reviewed code.
-
 ### Fluence Labs **2017-2018**
 #### Technical Advisor
 
-Consulted during the early design phase to identify potential attack vectors related to the overlay network structure, incentive model game theory and scalability concerns.
+Consulted during the early design phase to identify potential attack vectors related to the overlay network structure, incentive model and scalability concerns.
 
 ## grants & scholarships
 
