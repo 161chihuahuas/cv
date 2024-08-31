@@ -19,7 +19,7 @@ Developed security tools, code reviews, audits, pen tests and system design revi
 ### Senior Engineering Manager **2022-2023**
 #### Spruce Systems
 
-Acted as a technical advisor and engineering manager to a team of six engineers responsible for Sign-in-with-Ethereum (SIWE). Established testing practices and co-developed the product roadmap.
+Acted as a technical advisor and engineering manager to a team of six engineers responsible for Sign-in-with-Ethereum (SIWE). Established testing practices and security best practices.
 
 ### Senior Engineering Manager **2020-2022**
 #### Eaze
