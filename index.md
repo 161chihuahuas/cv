@@ -54,7 +54,7 @@ Modernized a legacy ASP codebase by refactoring key components as a set of micro
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
 
-Introduced Node.js into the interface team's technology stack. Localized the 2010 Winder Olympics website.
+Introduced Node.js into the interface team's technology stack. Localized the 2010 Winter Olympics website.
 
 ## published research 
 
