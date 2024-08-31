@@ -87,7 +87,7 @@ Co-authored the second major release of the Merchant API and the first major rel
 ### Counterpoint Hackerspace **2014-2019**
 #### Executive Director
 
-Co-founded a [radical hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. Managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
+Co-founded a [hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. Managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
 
 ### Fluence Labs **2017-2018**
 #### Technical Advisor
