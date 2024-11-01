@@ -7,14 +7,19 @@
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
 
-I'm a security researcher with an extensive background in distributed systems, digital privacy and applied cryptography. I have worked with Zcash, MetaMask, Ethereum Foundation, Blockstack and others.
+I'm a distinguished software engineer and security researcher with an extensive background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for many prominent organizations including Zcash, MetaMask, and Ethereum Foundation. Currently, I am applying my skills to support open-source projects and civil society organizations as an ethical hacker and technical support consultant. 
 
 ## professional experience
 
-### Security Researcher **2017-present**
-#### Independent Contractor/Consultant
+### Newsroom Techincal Support Services, SecureDrop **2024-present**
+#### Freedom of the Press Foundation (contract)
 
-Developed security tools, code reviews, audits, pen tests and system design reviews while consulting for private clientele.
+Assist news organizations and journalists in migrating to the SecureDrop Workstation, including hardware selection, OS installation, SecureDrop Workstation setup, and onboarding.
+
+### Security Researcher, Pentester **2024-present**
+#### Radically Open Security (contract)
+
+Develop security tools, code reviews, audits, pen tests and system design reviews while consulting for private clientele.
 
 ### Senior Engineering Manager **2022-2023**
 #### Spruce Systems
@@ -29,7 +34,7 @@ Managed the consumer engineering department which included the web, mobile, and 
 ### Security Researcher **2017-2020**
 #### Least Authority (contract)
 
-Conducted dozens of research and auditing projects for an ensemble of privacy focused technology projects. Authored reports and blog posts. Worked directly with clients to remediate vulnerabilities.
+Conducted dozens of security audits for an ensemble of privacy focused technology projects. Authored reports and blog posts. Worked directly with clients to remediate vulnerabilities.
 
 ### Principal Software Engineer, Architect **2015-2017**
 #### Storj Labs
