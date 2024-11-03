@@ -3,11 +3,13 @@
 ## personal
 
 ##### Pronouns *they/them*
-##### CV *[lilyanne.me](https://lilyanne.me)*
+##### Website (personal) *[lilyanne.me](https://lilyanne.me)*
+##### Website (business) *[tacticalchihuahua.lol](https://tacticalchihuahua.lol)*
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
-##### Github *[github.com/tacticalchihuahua](https://github.com/tacticalchihuahua)*
+##### Github *[github.com/lilyannehall](https://github.com/lilyannehall)*
+##### LinkedIn *[linkedin.com/in/lily-anne-hall](https://linkedin.com/in/lily-anne-hall)*
 
-I'm a distinguished software engineer and security researcher with an extensive background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for many prominent organizations including Zcash, MetaMask, and Ethereum Foundation. Currently, I am applying my skills to support open-source projects and civil society organizations as an ethical hacker and technical support consultant. 
+I'm a distinguished software engineer and security researcher with an extensive background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for many prominent organizations including Zcash, MetaMask, and Ethereum Foundation. 
 
 ## professional experience
 
