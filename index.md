@@ -83,6 +83,14 @@ Fully encrypted reverse HTTPS tunnel server and client, enabling secure access t
 **Documentation:** [tacticalchihuahua.lol/diglet](https://tacticalchihuahua.lol/diglet/)  
 **Repository:** [github.com/tacticalchihuahua/diglet](https://github.com/tacticalchihuahua/diglet)
 
+### KFS **2016**
+#### Author
+
+Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
+
+**Experiment:** [lilyanne.me/kfs](https://lilyanne.me/kfs/tutorial-performance-testing.html)  
+**Repository:** [github.com/lilyannehall/kfs](https://github.com/lilyannehall/kfs)
+
 ## published research 
 
 ### TRON: Protocol Security Audit **2020**
