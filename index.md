@@ -59,20 +59,29 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 ## notable projects
 
-### [Kadence](https://github.com/tacticalchihuahua/kadence) **2017-present**
+### Kadence **2019**
 #### Author, Maintainer
 
 Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
 
-### [Granax](htttps://github.com/tacticalchihuahua/granax) **2017-present**
+**Documentation:** [tacticalchihuahua.lol/kadence](https://tacticalchihuahua.lol/kadence) 
+**Repository:** [github.com/tacticalchihuahua/kadence](https://github.com/tacticalchihuahua/kadence)
+
+### Granax **2017**
 #### Author, Maintainer
 
 Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
 
-### [Diglet](https://github.com/tacticalchihuahua/diglet) **2017-present**
+**Documentation:** [tacticalchihuahua.lol/granax](https://tacticalchihuahua.lol/granax) 
+**Repository:** [github.com/tacticalchihuahua/granax](https://github.com/tacticalchihuahua/granax) 
+
+### Diglet **2017**
 #### Author, Maintainer
 
 Fully encrypted reverse HTTPS tunnel server and client, enabling secure access to HTTP(S) servers running behind a restrictive NAT or firewall accessible from the internet.
+
+**Documentation:** [tacticalchihuahua.lol/diglet](https://tacticalchihuahua.lol/diglet/)  
+**Repository:** [github.com/tacticalchihuahua/diglet](https://github.com/tacticalchihuahua/diglet)
 
 ## published research 
 
@@ -118,17 +127,12 @@ Co-founded a [hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlant
 
 Consulted during the early design phase to identify potential attack vectors related to the overlay network structure, incentive model and scalability concerns.
 
-## grants & scholarships
+## grants
 
 ### Open Technology Fund, Red Team Labs (research grant) **2018**
 #### Onion Routed Cloud, Author
 
 Awarded a research grant to fund a third party security audit of my open source privacy software project, Onion Routed Cloud (ORC).
-
-### Art Institute of Atlanta (scholarship) **2007**
-#### National Scholarship Competition, Digital Filmmaking
-
-Awarded first place in Ai's National High School Scholarship competition for two short films that I wrote, directed, and edited.
 
 ## public speaking
 
