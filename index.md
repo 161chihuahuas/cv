@@ -3,8 +3,8 @@
 ## personal
 
 ##### Pronouns *they/them*
-##### Website (personal) *[lilyanne.me](https://lilyanne.me)*
-##### Website (business) *[tacticalchihuahua.lol](https://tacticalchihuahua.lol)*
+##### CV *[lilyanne.me](https://lilyanne.me)*
+##### Website *[tacticalchihuahua.lol](https://tacticalchihuahua.lol)*
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### Github *[github.com/lilyannehall](https://github.com/lilyannehall)*
 ##### LinkedIn *[linkedin.com/in/lily-anne-hall](https://linkedin.com/in/lily-anne-hall)*
@@ -56,6 +56,23 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
+
+## notable projects
+
+### [Kadence](https://github.com/tacticalchihuahua/kadence) **2017-present**
+#### Author, Maintainer
+
+Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
+
+### [Granax](htttps://github.com/tacticalchihuahua/granax) **2017-present**
+#### Author, Maintainer
+
+Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
+
+### [Diglet](https://github.com/tacticalchihuahua/diglet) **2017-present**
+#### Author, Maintainer
+
+Fully encrypted reverse HTTPS tunnel server and client, enabling secure access to HTTP(S) servers running behind a restrictive NAT or firewall accessible from the internet.
 
 ## published research 
 
@@ -118,7 +135,7 @@ Awarded first place in Ai's National High School Scholarship competition for two
 ### BlockCon **2017**
 #### Santa Monica, CA
 
-Participated in a panel interview with representatives from [Sia](https://sia.tech/) and [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) about the state and future of decentralized scloud storage.
+Participated in a panel interview with representatives from [Sia](https://sia.tech/) and [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) about the state and future of decentralized cloud storage.
 
 ### LibrePlanet **2017**
 #### MIT, Cambridge, MA
@@ -137,9 +154,11 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 
 ## skills
 
-##### languages *JavaScript + Node.js, C++, Python, Rust, Lua, Solidity, Bash, HTML, CSS*
+##### languages *JavaScript + Node.js, C++, Python, Rust, Solidity, Bash, HTML, CSS*
 
-##### software *Asynchronous Programming, Distributed Systems Design, API Design, Security Best Practices, Reverse Engineering*
+##### software *Linux, Git, Docker, Qubes, Metasploit, MongoDB, PostgreSQL, LevelDB*
+
+##### disciplines *Asynchronous Programming, Distributed Systems Design, API Design, Security Best Practices, Reverse Engineering*
 
 ## references
 
