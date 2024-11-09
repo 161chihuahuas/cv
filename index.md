@@ -64,7 +64,7 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
 
-**Documentation:** [tacticalchihuahua.lol/kadence](https://tacticalchihuahua.lol/kadence) 
+**Documentation:** [tacticalchihuahua.lol/kadence](https://tacticalchihuahua.lol/kadence)   
 **Repository:** [github.com/tacticalchihuahua/kadence](https://github.com/tacticalchihuahua/kadence)
 
 ### Granax **2017**
@@ -72,7 +72,7 @@ Complete implementation of the Kademlia distributed hash table that aims to effe
 
 Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
 
-**Documentation:** [tacticalchihuahua.lol/granax](https://tacticalchihuahua.lol/granax) 
+**Documentation:** [tacticalchihuahua.lol/granax](https://tacticalchihuahua.lol/granax)  
 **Repository:** [github.com/tacticalchihuahua/granax](https://github.com/tacticalchihuahua/granax) 
 
 ### Diglet **2017**
