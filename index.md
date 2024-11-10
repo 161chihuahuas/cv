@@ -88,8 +88,8 @@ Fully encrypted reverse HTTPS tunnel server and client, enabling secure access t
 
 Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
 
-**Experiment:** [lilyanne.me/kfs](https://lilyanne.me/kfs/tutorial-performance-testing.html)  
-**Repository:** [github.com/lilyannehall/kfs](https://github.com/lilyannehall/kfs)
+**Experiment:** [lilyanne.me/research/Storj/kfs/docs](https://lilyanne.me/research/Storj/kfs/docs/tutorial-performance-testing.html)  
+**Repository:** [github.com/lilyannehall/research/Storj/kfs](https://github.com/lilyannehall/research/Storj/kfs)
 
 ## published research 
 
