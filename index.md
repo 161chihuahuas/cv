@@ -1,4 +1,4 @@
-# lily anne hall *curriculum vitae*
+# lily anne hall
 
 ## personal
 
