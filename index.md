@@ -170,8 +170,6 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 
 ##### software *Linux, Git, Docker, Qubes, Metasploit, MongoDB, PostgreSQL, LevelDB*
 
-##### disciplines *Asynchronous Programming, Distributed Systems Design, API Design, Security Best Practices, Reverse Engineering*
-
 ## references
 
 Available upon request
