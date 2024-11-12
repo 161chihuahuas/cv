@@ -9,7 +9,7 @@
 ##### Github *[github.com/lilyannehall](https://github.com/lilyannehall)*
 ##### LinkedIn *[linkedin.com/in/lily-anne-hall](https://linkedin.com/in/lily-anne-hall)*
 
-I'm a software engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for organizations including Zcash, MetaMask, and Ethereum Foundation. I have authored security critical software for companies including BitPay and Storj. I am contributor to many open source projects and conduct independent research on peer-to-peer networks and privact technology.
+I'm a software engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for organizations including Zcash, MetaMask, and Ethereum Foundation. I have authored security critical software for companies including BitPay and Storj. I am contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
 
 ## professional experience
 
