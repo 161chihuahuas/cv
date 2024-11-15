@@ -1,13 +1,10 @@
-# lily anne hall
+# lily anne hall *curriculum vitae*
 
 ## personal
 
 ##### Pronouns *they/them*
-##### CV *[lilyanne.me](https://lilyanne.me)*
-##### Website *[tacticalchihuahua.lol](https://tacticalchihuahua.lol)*
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### Github *[github.com/lilyannehall](https://github.com/lilyannehall)*
-##### LinkedIn *[linkedin.com/in/lily-anne-hall](https://linkedin.com/in/lily-anne-hall)*
 
 I'm a software engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for organizations including Zcash, MetaMask, and Ethereum Foundation. I have authored security critical software for companies including BitPay and Storj. I am a contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
 
