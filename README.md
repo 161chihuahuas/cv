@@ -56,63 +56,33 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 ## notable projects
 
-### Kadence **2019**
+### [Kadence](../kadence) **2019**
 #### Author, Maintainer
 
 Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
 
-**Documentation:** [lilyanne.me/kadence](https://lilyanne.me/kadence)   
-**Repository:** [github.com/lilyannehall/kadence](https://github.com/lilyannehall/kadence)
-
-### Granax **2017**
+### [Granax](../granax) **2017**
 #### Author, Maintainer
 
 Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
 
-**Documentation:** [lilyanne.me/granax](https://lilyanne.me/granax)  
-**Repository:** [github.com/lilyannehall/granax](https://github.com/lilyannehall/granax) 
-
-### Diglet **2017**
+### [Diglet](../diglet) **2017**
 #### Author, Maintainer
 
 Fully encrypted reverse HTTPS tunnel server and client, enabling secure access to HTTP(S) servers running behind a restrictive NAT or firewall accessible from the internet.
 
-**Documentation:** [lilyanne.me/diglet](https://lilyanne.me/diglet/)  
-**Repository:** [github.com/lilyannehall/diglet](https://github.com/lilyannehall/diglet)
-
-### KFS **2016**
-#### Author
-
-Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
-
-**Experiment:** [lilyanne.me/research/Storj/kfs/docs](https://lilyanne.me/research/Storj/kfs/docs/tutorial-performance-testing.html)  
-**Repository:** [github.com/lilyannehall/research/](https://github.com/lilyannehall/research/tree/main/Storj/kfs)
-
 ## selected research 
 
-### MetaMask: Lavamoat Plugin System Security Audit **2019**
-#### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf)
-
-### MetaMask: Capnode Permissions System Security Audit **2019**
-#### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf)
-
-### MetaMask: Mobile Wallet Security Audit **2019**
-#### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Audit-Report.pdf)
-
-### Blockstack: Stacks Investor Wallet Security Audit **2019**
-#### [lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf](https://lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf)
-
-### Ethereum Foundation: ProgPow Algorithm Security Audit **2019**
-#### [lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf](https://lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf)
-
-### Zcash: Sapling Implementation Security Audit **2019**
-#### [lilyanne.me/research/Zcash/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf](https://lilyanne.me/research/Zcash/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf)
-
-### Zcash: Overwinter Specification and Implementation Security Audit **2018**
-#### [lilyanne.me/research/Zcash/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf](https://lilyanne.me/research/Zcash/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf)
-
-### Storj: a peer-to-peer cloud storage network **2016**
-#### [lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf](https://lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf)
+* [KFS: a LevelDB sharding algorithm based on the XOR metric](../research/Storj/kfs) (Author -- Storj, 2016)
+* [Tezoz TezBox Wallet Audit](../research/Tezos/LeastAuthority-TezBox-Wallet-Audit-Report.pdf) (Author -- Least Authority, 2018)
+* [Storj: a peer-to-peer cloud storage network](../research/Storj/Storj.Whitepaper.V2.pdf) (Contributor -- Storj, 2016)
+* [Capnode Permissions System](../research/MetaMask/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
+* [MetaMast Mobile Wallet](../research/MetaMask/LeastAuthority-MetaMask-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
+* [ProgPow Algorithm](../research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
+* [Zcash Sapling Implementation](../research/Zcash/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
+* [Zcash Overwinter Specification and Implementation](../research/Zcash/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf) (Contributor -- Least Authority, 2018)
+* [Tezos Galleon Wallet Audit](../research/Tezos/LeastAuthority-Galleon-Wallet-Audit-Report.pdf) (Contributor -- Least Authority, 2018)
+* [Tezos Protocol Audit](../research/Tezos/LeastAuthority-Tezos-Protocol-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
 
 > Exhaustive list of published research, papers, and security audits at [lilyanne.me/research](/research)
 
@@ -165,4 +135,4 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 
 ## references
 
-Available upon request
+> Professional references available upon request
