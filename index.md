@@ -61,24 +61,24 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
 
-**Documentation:** [tacticalchihuahua.lol/kadence](https://tacticalchihuahua.lol/kadence)   
-**Repository:** [github.com/tacticalchihuahua/kadence](https://github.com/tacticalchihuahua/kadence)
+**Documentation:** [lilyanne.me/kadence](https://lilyanne.me/kadence)   
+**Repository:** [github.com/lilyannehall/kadence](https://github.com/lilyannehall/kadence)
 
 ### Granax **2017**
 #### Author, Maintainer
 
 Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
 
-**Documentation:** [tacticalchihuahua.lol/granax](https://tacticalchihuahua.lol/granax)  
-**Repository:** [github.com/tacticalchihuahua/granax](https://github.com/tacticalchihuahua/granax) 
+**Documentation:** [lilyanne.me/granax](https://lilyanne.me/granax)  
+**Repository:** [github.com/lilyannehall/granax](https://github.com/lilyannehall/granax) 
 
 ### Diglet **2017**
 #### Author, Maintainer
 
 Fully encrypted reverse HTTPS tunnel server and client, enabling secure access to HTTP(S) servers running behind a restrictive NAT or firewall accessible from the internet.
 
-**Documentation:** [tacticalchihuahua.lol/diglet](https://tacticalchihuahua.lol/diglet/)  
-**Repository:** [github.com/tacticalchihuahua/diglet](https://github.com/tacticalchihuahua/diglet)
+**Documentation:** [lilyanne.me/diglet](https://lilyanne.me/diglet/)  
+**Repository:** [github.com/lilyannehall/diglet](https://github.com/lilyannehall/diglet)
 
 ### KFS **2016**
 #### Author
