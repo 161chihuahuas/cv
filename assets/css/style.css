@@ -4,6 +4,11 @@ html, body {
   padding: 0;
 }
 
+blockquote {
+  border: 1px solid black;
+  padding: 0 32px;
+}
+
 .container {
   padding: 4em;
   margin: auto;
