@@ -88,10 +88,7 @@ Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
 **Experiment:** [lilyanne.me/research/Storj/kfs/docs](https://lilyanne.me/research/Storj/kfs/docs/tutorial-performance-testing.html)  
 **Repository:** [github.com/lilyannehall/research/](https://github.com/lilyannehall/research/tree/main/Storj/kfs)
 
-## published research 
-
-### TRON: Protocol Security Audit **2020**
-#### [lilyanne.me/research/TRON/LeastAuthority-TRON-Protocol-Audit-Report.pdf](https://lilyanne.me/research/TRON/LeastAuthority-TRON-Protocol-Audit-Report.pdf)
+## selected research 
 
 ### MetaMask: Lavamoat Plugin System Security Audit **2019**
 #### [lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf](https://lilyanne.me/research/MetaMask/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf)
@@ -105,9 +102,6 @@ Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
 ### Blockstack: Stacks Investor Wallet Security Audit **2019**
 #### [lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf](https://lilyanne.me/research/Blockstack/LeastAuthority-Blockstack-Wallet-Audit-Report.pdf)
 
-### Cosmos: SDK Security Audit **2019**
-#### [lilyanne.me/research/Cosmos/LeastAuthority-Cosmos-SDK-Audit-Report.pdf](https://lilyanne.me/research/Cosmos/LeastAuthority-Cosmos-SDK-Audit-Report.pdf)
-
 ### Ethereum Foundation: ProgPow Algorithm Security Audit **2019**
 #### [lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf](https://lilyanne.me/research/EthereumFoundation/LeastAuthority-ProgPow-Algorithm-Final-Audit-Report.pdf)
 
@@ -119,6 +113,8 @@ Experimental sharding layer for LevelDB inspired by Kademlia's network topology.
 
 ### Storj: a peer-to-peer cloud storage network **2016**
 #### [lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf](https://lilyanne.me/research/Storj/Storj.Whitepaper.V2.pdf)
+
+> Exhaustive list of published research, papers, and security audits at [lilyanne.me/research](/research)
 
 ## leadership & advisory roles
 
