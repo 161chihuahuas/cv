@@ -2,9 +2,8 @@
 
 ## personal
 
-##### Pronouns *they/them*
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
-##### Github *[github.com/lilyannehall](https://github.com/lilyannehall)*
+##### Github *[github.com/161chihuahuas](https://github.com/161chihuahuas)*
 
 I'm a software engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for organizations including Zcash, MetaMask, and Ethereum Foundation. I have authored security critical software for companies including BitPay and Storj. I am a contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
 
@@ -129,9 +128,9 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 
 ## skills
 
-##### languages *JavaScript + Node.js, C++, Python, Rust, Solidity, Bash, HTML, CSS*
+##### languages *JavaScript + Node.js, Vala, C++, Python, Rust, Solidity, Bash, HTML, CSS*
 
-##### software *Linux, Git, Docker, Qubes, Metasploit, MongoDB, PostgreSQL, LevelDB*
+##### software *Linux, Git, Docker, Qubes, MongoDB, PostgreSQL, LevelDB*
 
 ## references
 
