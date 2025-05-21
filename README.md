@@ -1,20 +1,20 @@
-# lily anne hall *curriculum vitae*
+# lily anne hall *cv*
 
 ## personal
 
 ##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
 ##### Github *[github.com/161chihuahuas](https://github.com/161chihuahuas)*
 
-I'm a software engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for organizations including Zcash, MetaMask, and Ethereum Foundation. I have authored security critical software for companies including BitPay and Storj. I am a contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
+I'm a protocol engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for high profile projevts including Zcash, MetaMask, and Ethereum. I have authored security critical software for companies including BitPay and Storj. I am a contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
 
 ## professional experience
 
-### Newsroom Techincal Support Services, SecureDrop **2024-present**
+### Newsroom Techincal Support Services, SecureDrop **2024-2025**
 #### Freedom of the Press Foundation (contract)
 
 Assist news organizations and journalists in migrating to the SecureDrop Workstation, including hardware selection, OS installation, SecureDrop Workstation setup, and onboarding.
 
-### Security Researcher, Pentester **2024-present**
+### Security Researcher, Pentester **2024-2025**
 #### Radically Open Security (contract)
 
 Develop security tools, code reviews, audits, pen tests and system design reviews while consulting for private clientele.
@@ -55,6 +55,11 @@ Co-authored the second major release of the Merchant API and the first major rel
 
 ## notable projects
 
+### [🝰 dusk](https://rundusk.org) **2024**
+#### Author, Maintainer
+
+Free and open-source cloud drive designed for activists who face potential device seizure.
+
 ### [Kadence](../kadence) **2019**
 #### Author, Maintainer
 
@@ -72,6 +77,7 @@ Fully encrypted reverse HTTPS tunnel server and client, enabling secure access t
 
 ## selected research 
 
+* [dusk: darknet under s/kademlia](https://rundusk.org/whitepaper) (Author, 2024)
 * [KFS: a LevelDB sharding algorithm based on the XOR metric](../research/Storj/kfs) (Author -- Storj, 2016)
 * [Tezoz TezBox Wallet Audit](../research/Tezos/LeastAuthority-TezBox-Wallet-Audit-Report.pdf) (Author -- Least Authority, 2018)
 * [Storj: a peer-to-peer cloud storage network](../research/Storj/Storj.Whitepaper.V2.pdf) (Contributor -- Storj, 2016)
@@ -85,17 +91,12 @@ Fully encrypted reverse HTTPS tunnel server and client, enabling secure access t
 
 > Exhaustive list of published research, papers, and security audits at [lilyanne.me/research](/research)
 
-## leadership & advisory roles
+## volunteering
 
 ### Counterpoint Hackerspace **2014-2019**
 #### Executive Director
 
 Co-founded a [hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlanta, GA. Managed operational logistics, curriculum, and hosted a weekly counter-surveillance and threat modeling workshop.
-
-### Fluence Labs **2017-2018**
-#### Technical Advisor
-
-Consulted during the early design phase to identify potential attack vectors related to the overlay network structure, incentive model and scalability concerns.
 
 ## grants
 
