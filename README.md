@@ -1,13 +1,13 @@
-# lily anne hall *cv*
+# { name redacted } <sup><a href="#whynoname">why?</a></sup>
 
-## personal
+## about me
 
-##### Email *[lily.anne.hall@protonmail.com](mailto:lily.anne.hall@protonmail.com)*
+##### Email *[161chihuahuas@disroot.org](mailto:161chihuahuas@disroot.org)*
 ##### Github *[github.com/161chihuahuas](https://github.com/161chihuahuas)*
 
-I'm a protocol engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for high profile projevts including Zcash, MetaMask, and Ethereum. I have authored security critical software for companies including BitPay and Storj. I am a contributor to many open source projects and conduct independent research on peer-to-peer networks and privacy technology.
+Protocol engineer and security researcher with a background in distributed systems, digital privacy and applied cryptography. I have conducted security audits for projects like Zcash, MetaMask, and Ethereum Foundation. I am also the author of some of the software protoypes that launched successful companies including BitPay and Storj. I am a contributor to a number open source projects and conduct independent research on peer-to-peer networks and privacy technology.
 
-## professional experience
+## background
 
 ### Newsroom Techincal Support Services, SecureDrop **2024-2025**
 #### Freedom of the Press Foundation (contract)
@@ -53,29 +53,7 @@ Co-authored the second major release of the Merchant API and the first major rel
 ### Interface Engineer **2009-2010**
 #### LBi/Digitas
 
-## notable projects
-
-### [🝰 dusk](https://rundusk.org) **2024**
-#### Author, Maintainer
-
-Free and open-source cloud drive designed for activists who face potential device seizure.
-
-### [Kadence](../kadence) **2019**
-#### Author, Maintainer
-
-Complete implementation of the Kademlia distributed hash table that aims to effectively mitigate all vulnerabilities described in the S/Kademlia paper. 
-
-### [Granax](../granax) **2017**
-#### Author, Maintainer
-
-Complete client implementation of the Tor Control Protocol enabling developers to control a running Tor instance from Node.js.
-
-### [Diglet](../diglet) **2017**
-#### Author, Maintainer
-
-Fully encrypted reverse HTTPS tunnel server and client, enabling secure access to HTTP(S) servers running behind a restrictive NAT or firewall accessible from the internet.
-
-## selected research 
+## research 
 
 * [dusk: darknet under s/kademlia](https://rundusk.org/whitepaper) (Author, 2024)
 * [KFS: a LevelDB sharding algorithm based on the XOR metric](../research/Storj/kfs) (Author -- Storj, 2016)
@@ -89,9 +67,9 @@ Fully encrypted reverse HTTPS tunnel server and client, enabling secure access t
 * [Tezos Galleon Wallet Audit](../research/Tezos/LeastAuthority-Galleon-Wallet-Audit-Report.pdf) (Contributor -- Least Authority, 2018)
 * [Tezos Protocol Audit](../research/Tezos/LeastAuthority-Tezos-Protocol-Audit-Report.pdf) (Contributor -- Least Authority, 2019)
 
-> Exhaustive list of published research, papers, and security audits at [lilyanne.me/research](/research)
+> Exhaustive list of published research, papers, and security audits at [yipsec.io/research](../research)
 
-## volunteering
+## extracurricular
 
 ### Counterpoint Hackerspace **2014-2019**
 #### Executive Director
@@ -105,7 +83,7 @@ Co-founded a [hackerspace](https://wiki.hackerspaces.org/Counterpoint) in Atlant
 
 Awarded a research grant to fund a third party security audit of my open source privacy software project, Onion Routed Cloud (ORC).
 
-## public speaking
+## talks
 
 ### BlockCon **2017**
 #### Santa Monica, CA
@@ -136,3 +114,9 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 ## references
 
 > Professional references available upon request
+
+---
+
+<h4 id="whynoname">*why is your name redacted?</h4>
+
+I was doxxed by a well-known fascist media personality in 2021, then it was further boosted by white nationalists in 2021. I was doxxed again in 2025 by the same fascist media personality. I'll probably get doxxed again for opposing fascist organizing in my community. My legal name will be provided upon written offer.
