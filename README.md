@@ -1,4 +1,4 @@
-# { name redacted }<sup style="font-size:14px"><a href="#whynoname">why?</a></sup>
+# Emery Hall
 
 ## about me
 
@@ -114,7 +114,3 @@ Spoke at a conference for JS developers about using server-side JavaScript to im
 ## references
 
 > Professional references available upon request
-
-<h3 id="whynoname">*why is your name redacted?</h3>
-
-I was doxxed by a well-known fascist media personality in 2021, then it was further boosted by white nationalists in 2021. I was doxxed again in 2025 by the same fascist media personality. I'll probably get doxxed again for opposing fascist organizing in my community. My legal name will be provided upon written offer.
